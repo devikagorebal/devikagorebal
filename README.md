@@ -1,5 +1,5 @@
 <a href="https://vedangdhuri.github.io/">
-  <img src="./C:\Users\HP\Downloads\Blue and Dark Modern Tech LinkedIn Banner.png" alt="Header" width="1011" height="299">
+  <img src="./Blue and Dark Modern Tech LinkedIn Banner.png" alt="Header" width="1011" height="299">
 </a>
 
 <h1 align="center"> Hi 👋, I'm Vedang Dhuri </h1>
