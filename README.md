@@ -32,7 +32,6 @@
       <!-- Shield.io Badges -->
       <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white" alt="">
       <img src="https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff" alt="">
-      
     </td>
   </tr>
   <tr>
@@ -122,9 +121,13 @@
 
 <h2 align="left"> 💼 Experience </h2>
 
-<h3 align="left"><stronge> Internships in React & IoT</stronge></h3>
-<h4 align="left"><ul><li> Worked on frontend development using React.</li></ul> </h4>
-<h4 align="left"><ul><li> Implemented and tested IoT mini-projects.</li></ul> </h4>
+<h3 align="left"><stronge> Internships in Pyhton and applied machine learning</stronge></h3>
+<h4 align="left"><ul><li> Worked on machine learning concepts including data preprocessing, model training, and performance evaluation.
+Developed predictive models using Python and popular ML libraries.
+Gained practical experience in data analysis, feature engineering, and model optimization.</li></ul> </h4>
+<h4 align="left"><ul><li> Developed predictive models using Python and popular ML libraries.</li></ul> </h4>
+<h4 align="left"><ul><li> Gained practical experience in data analysis, feature engineering, and model optimization.</li></ul> </h4>
+
 
 
 
