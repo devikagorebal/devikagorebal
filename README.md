@@ -2,19 +2,20 @@
   <img src="./Blue and Dark Modern Tech LinkedIn Banner.png" alt="Header" width="1011" height="299">
 </a>
 
-<h1 align="center"> Hi 👋, I'm Vedang Dhuri </h1>
-<h3 align="center"> MERN Stack | IoT Enthusiast | Building Secure Systems </h3>
+<h1 align="center"> Hi 👋, I'm G Devika </h1>
+<h3 align="center">Pyhton Developer </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vedangdhuri&label=Profile%20views&color=0e75b6&style=flat" alt="vedangdhuri" />
   <img src="https://img.shields.io/badge/Total_Repos-13-5865F2?style=flat" alt="Repository" />
 </p>
-<h3 align="left">🎓 I am a 3rd-year Computer Engineering student under MSBTE (Batch 2025–26)</h3>
-<h3 align="left">💻 I enjoy building user-friendly designs and solving real-world problems through code.</h3>
+<h3 align="left">🎓 I am a Bachelor of Engineering (B.E.) student under VTU (2022 Scheme).</h3>
+<h3 align="left">💻 Passionate about Python Programming, Data Structures & Algorithms, SQL, Machine Learning, and Artificial Intelligence.</h3>
+<h3 align="left">📊 I enjoy solving real-world problems using data-driven solutions and developing intelligent applications.</h3>
 
 <h2 align="left"> 🌐 Connect with Me </h2>
 <div align="center">
-  <a href="https://leetcode.com/u/vedangdhuri/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode"></a>
+  <a href="https://leetcode.com/u/Devika_navodaya/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode"></a>
   <a href="https://www.instagram.com/vedang.dhuri.69" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"></a>
   <a href="https://www.facebook.com/vedang.dhuri.69/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"></a>
   <a href="https://discord.com/invite/mHp6krXD82" target="_blank"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
@@ -31,8 +32,7 @@
       <!-- Shield.io Badges -->
       <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white" alt="">
       <img src="https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff" alt="">
-      <img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white" alt="">
-      <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff" alt="">
+      
     </td>
   </tr>
   <tr>
@@ -126,27 +126,9 @@
 <h4 align="left"><ul><li> Worked on frontend development using React.</li></ul> </h4>
 <h4 align="left"><ul><li> Implemented and tested IoT mini-projects.</li></ul> </h4>
 
-<h2 align="left"> 🏆 GitHub Trophies </h2>
 
-<div align="center">
-  <img src="https://github-trophies.vercel.app/?username=vedangdhuri&theme=darkhub&title=Commits,MultiLanguage,NewUser,Repositories,Stars,Followers,LongTimeUser&row=1&column=7" />
-</div>
-<!-- <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vedangdhuri&theme=radical" />
-</div> -->
 
-<h2 align="left"> 📊 GitHub Stats </h2>
 
-<div align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=vedangdhuri&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="Vedang's GitHub stats" width="450" height="299"/> <br /> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedangdhuri&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" width="450" height="299"/> <br />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=vedangdhuri&theme=dark&hide_border=false" alt="" width="450" height="299"/>
-</div>
 
-<h2 align="left"> 📈 Contributions </h2>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vedangdhuri/vedangdhuri/refs/heads/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vedangdhuri/vedangdhuri/refs/heads/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+
