@@ -11,8 +11,6 @@
 <a href="https://linkedin.com/in/g-devika-36488130a"><img src="https://img.shields.io/badge/LinkedIn-G%20Devika-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:devikagorebalc@gmail.com"><img src="https://img.shields.io/badge/Gmail-devikagorebalc%40gmail.com-D14836?logo=gmail&logoColor=white" alt="Gmail" /></a>
 <a href="https://your-portfolio-link"><img src="https://img.shields.io/badge/Portfolio-Visit%20my%20site-f2b134" alt="Portfolio" /></a>
-<img src="https://komarev.com/ghpvc/?username=devikagorebal&label=Profile%20views&color=2f5bea" alt="Profile views" />
-
 </div>
 
 ---
@@ -78,7 +76,7 @@ flowchart LR
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=py,django,js,html,css,mysql,pandas,numpy,git,github,vscode" alt="Tech stack icons" />
+<img src="https://skillicons.dev/icons?i=py,django,js,html,css,mysql,git,github,vscode" alt="Tech stack icons" />
 
 </div>
 
