@@ -1,137 +1,122 @@
-<a href="https://vedangdhuri.github.io/">
-  <img src="./Blue and Dark Modern Tech LinkedIn Banner.png" alt="Header" width="1011" height="299">
-</a>
-
-<h1 align="center"> Hi 👋, I'm G Devika </h1>
-<h3 align="center">Pyhton Developer </h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vedangdhuri&label=Profile%20views&color=0e75b6&style=flat" alt="vedangdhuri" />
-  <img src="https://img.shields.io/badge/Total_Repos-13-5865F2?style=flat" alt="Repository" />
-</p>
-<h3 align="left">🎓 I am a Bachelor of Engineering (B.E.) student under VTU (2022 Scheme).</h3>
-<h3 align="left">💻 Passionate about Python Programming, Data Structures & Algorithms, SQL, Machine Learning, and Artificial Intelligence.</h3>
-<h3 align="left">📊 I enjoy solving real-world problems using data-driven solutions and developing intelligent applications.</h3>
-
-<h2 align="left"> 🌐 Connect with Me </h2>
 <div align="center">
-  <a href="https://leetcode.com/u/Devika_navodaya/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode"></a>
-  <a href="https://www.instagram.com/vedang.dhuri.69" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"></a>
-  <a href="https://www.facebook.com/vedang.dhuri.69/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"></a>
-  <a href="https://discord.com/invite/mHp6krXD82" target="_blank"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
-  <a href="https://www.linkedin.com/in/vedang-dhuri-b03280348/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff" alt="LinkedIn"></a>
-  <a href="https://t.me/vedangdhuri69" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
-  <a href="https://vedangdhuri.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio"/></a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=G%20Devika&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=Python%20Full%20Stack%20Developer&descSize=20" alt="G Devika header" />
+
+# Hi 👋, I'm G Devika
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F5BEA&center=true&vCenter=true&width=620&lines=Python+Full+Stack+Developer;Django+Builder;Machine+Learning+Learner;Problem+Solver;Open+to+entry-level+roles" alt="Typing animation" />
+
+<br>
+
+<a href="https://linkedin.com/in/g-devika-36488130a"><img src="https://img.shields.io/badge/LinkedIn-G%20Devika-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:devikagorebalc@gmail.com"><img src="https://img.shields.io/badge/Gmail-devikagorebalc%40gmail.com-D14836?logo=gmail&logoColor=white" alt="Gmail" /></a>
+<a href="https://your-portfolio-link"><img src="https://img.shields.io/badge/Portfolio-Visit%20my%20site-f2b134" alt="Portfolio" /></a>
+<img src="https://komarev.com/ghpvc/?username=devikagorebal&label=Profile%20views&color=2f5bea" alt="Profile views" />
+
 </div>
 
-<h2 align="left"> 🛠️ Skills </h2>  
-<table align="center">
-  <tr>
-    <td><b>Frontend</b></td>
-    <td>
-      <!-- Shield.io Badges -->
-      <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white" alt="">
-      <img src="https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff" alt="">
-    </td>
-  </tr>
-  <tr>
-    <td><b>Backend</b></td>
-    <td>
-      <!-- Markdown Badges -->
-      <!-- <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
-      <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-      <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
-      <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-      <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"> -->
-      <!-- Shield.io Badge -->
-      <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" alt="">
-      <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white" alt="">
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" alt="">
-      <img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white" alt="">
-      <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" alt="">
-    </td>
-  </tr>
-  <tr>
-    <td><b>Fremeworks</b></td>
-    <td>
-      <!-- Markdown Badges-->
-      <!-- <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
-      <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
-      <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django">
-      <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"> -->
-      <!-- Shield.io Badge-->
-      <img src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white" alt="">
-      <img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB" alt="">
-      <img src="https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white" alt="">
-      <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB" alt="">
-      <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff" alt="">
-    </td>
-  </tr>
-  <tr>
-    <td><b>Databases</b></td>
-    <td>
-      <!-- Markdown Badges -->
-      <!-- <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-      <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"> -->
-      <!-- Shield.io Badge-->
-      <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white" alt="">
-      <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff" alt="">
-    </td>
-  </tr>
-  <tr>
-    <td><b>Cloud System</b></td>
-    <td>
-      <!-- Shield.io Badge-->
-      <img src="https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white" alt="">
-      <img src="https://img.shields.io/badge/Netlify-%23000000.svg?logo=netlify&logoColor=#00C7B7" alt="">
-      <img src="https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white" alt="">
-    </td>
-  </tr>
-  <tr>
-    <td><b>Others</b></td>
-    <td>
-      <!-- Markdown Badges -->
-      <!-- <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino">
-      <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
-      <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="Photoshop">
-      <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" alt="Premiere Pro">
-      <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva"> -->
-      <!-- Shield.io Badge-->
-      <img src="https://img.shields.io/badge/Arduino-00878F?logo=arduino&logoColor=fff" alt="">
-      <img src="https://img.shields.io/badge/ESP8266-333?logo=espressif&logoColor=hhh" alt="">
-      <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" alt="">
-      <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&logo=Canva&logoColor=white" alt="">
-      <img src="https://img.shields.io/badge/Krita-203759?logo=krita&logoColor=EEF37B" alt="">
-    </td>
-  </tr>
-  <tr>
-    <td><b>Gaming</b></td>
-    <td>
-      <!-- Markdown Badges-->
-      <!-- <img src="https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white" alt="Epic Games">
-      <img src="https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white" alt="Riot">
-      <img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"> -->
-      <!-- Shield.io Badge-->
-      <img src="https://img.shields.io/badge/Epic%20Games-%23313131.svg?logo=epicgames&logoColor=white" alt="">
-      <img src="https://img.shields.io/badge/Steam-%23000000.svg?logo=steam&logoColor=white" alt="">
-      <img src="https://img.shields.io/badge/Riot-EB0029.svg?logo=riotgames&logoColor=white" alt="">
-    </td>
-  </tr>
-</table>
+---
 
-<h2 align="left"> 💼 Experience </h2>
+## 👩‍💻 About me
 
-<h3 align="left"><stronge> Internships in Pyhton and applied machine learning</stronge></h3>
-<h4 align="left"><ul><li> Worked on machine learning concepts including data preprocessing, model training, and performance evaluation.
-Developed predictive models using Python and popular ML libraries.
-Gained practical experience in data analysis, feature engineering, and model optimization.</li></ul> </h4>
-<h4 align="left"><ul><li> Developed predictive models using Python and popular ML libraries.</li></ul> </h4>
-<h4 align="left"><ul><li> Gained practical experience in data analysis, feature engineering, and model optimization.</li></ul> </h4>
+```python
+class Devika:
+    role = "Python Full Stack Developer"
+    education = "B.E. in Computer Science Engineering, 2026"
+    location = "Bengaluru, India"
+    skills = ["Python", "Django", "JavaScript", "SQL", "OOP"]
+    loves = ["Data Structures and Algorithms", "Machine Learning", "Building things that work"]
+
+    def looking_for(self):
+        return "My first Full Stack Developer role. Let's talk!"
+```
 
 
+I finished a full stack internship and a **Python Full Stack Developer** program at Destination Career. I like building web apps from start to end: the database, the Python backend, and the page the user sees.
+
+---
+
+## 🚀 What I've built
+
+<details>
+<summary><b>🎙️ Nova AI Voice Assistant</b> &nbsp;|&nbsp; Python, OOP, Speech Recognition (Feb to May 2026)</summary>
+<br>
+
+- Listens to voice commands and **replies with speech**.
+- Used **OOP** to keep responses, web tasks and the GUI in separate parts.
+- Built a simple, friendly interface so anyone can use it.
+- Helps with everyday tasks by giving useful actions and information.
+
+</details>
+
+<details>
+<summary><b>🌿 Cinnamon Quality Classification</b> &nbsp;|&nbsp; Python, Django, HTML, CSS (Internship project)</summary>
+<br>
+
+A full stack web app that predicts cinnamon quality (**High, Medium or Low**) from chemical test values like moisture, ash, volatile oil and coumarin.
+
+```mermaid
+flowchart LR
+    A[Login] --> B[Enter test values]
+    B --> C[Scale and encode data]
+    C --> D[5 ML models]
+    D --> E[Quality: High, Medium or Low]
+```
 
 
+- Trained and compared **5 models**: Logistic Regression, Decision Tree, Random Forest, SVM and KNN. The best one is highlighted by accuracy.
+- Secure **login and registration** with Django authentication.
+- Cleaned and prepared the data with **NumPy and Pandas**.
+
+</details>
+
+📌 More projects are in my [repositories](https://github.com/devikagorebal?tab=repositories).
+
+---
+
+## 🛠️ Tech stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=py,django,js,html,css,mysql,pandas,numpy,git,github,vscode" alt="Tech stack icons" />
+
+</div>
+
+**Also:** Oracle SQL, REST APIs, Object-Oriented Programming
+
+---
+
+## 🌱 Right now
+
+| | |
+|---|---|
+| 🔭 **Building** | My portfolio website with animations |
+| 📚 **Practising** | Data Structures and Algorithms, SQL |
+| 🤖 **Exploring** | Machine Learning with Python |
+| 🎯 **Looking for** | An entry-level Full Stack Developer role |
+
+---
 
 
+## 📊 GitHub stats
 
+<div align="center">
 
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=devikagorebal&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devikagorebal&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+
+<img src="https://streak-stats.demolab.com?user=devikagorebal&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 💬 Let's connect
+
+I reply fast. Send me a message about a role, a project or a collab.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" alt="footer" />
+
+</div>
